@@ -1,0 +1,7 @@
+# main links
+main:
+  - title: "about"
+    url: /about/
+  - title: "articles"
+    url: /articles/
+    
